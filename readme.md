@@ -2,6 +2,6 @@
 
 A few projects from CMS 250: Data Structures and Algorithims
 
-[FelonProject](./FelonProject/readme.md)
+[FelonProject](./FelonProject)
 
-[Linked List Cipher](./LinkedListCipher/readme.md)
+[Linked List Cipher](./LinkedListCipher)

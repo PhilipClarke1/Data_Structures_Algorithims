@@ -1,0 +1,1 @@
+# Simple Java project to polish basic Java fundamentals

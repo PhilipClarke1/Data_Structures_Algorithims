@@ -1,1 +1,1 @@
-# Implementation of a Linked List Data Structure to decode a secret message
+# Implementation of a Linked List data structure to decode a secret message
